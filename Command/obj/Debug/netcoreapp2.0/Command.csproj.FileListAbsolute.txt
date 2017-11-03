@@ -1,0 +1,11 @@
+/Users/artemkopytko/University/Command/Command/bin/Debug/netcoreapp2.0/Command.deps.json
+/Users/artemkopytko/University/Command/Command/bin/Debug/netcoreapp2.0/Command.runtimeconfig.json
+/Users/artemkopytko/University/Command/Command/bin/Debug/netcoreapp2.0/Command.runtimeconfig.dev.json
+/Users/artemkopytko/University/Command/Command/bin/Debug/netcoreapp2.0/Command.dll
+/Users/artemkopytko/University/Command/Command/bin/Debug/netcoreapp2.0/Command.pdb
+/Users/artemkopytko/University/Command/Command/obj/Debug/netcoreapp2.0/Command.csprojResolveAssemblyReference.cache
+/Users/artemkopytko/University/Command/Command/obj/Debug/netcoreapp2.0/Command.csproj.CoreCompileInputs.cache
+/Users/artemkopytko/University/Command/Command/obj/Debug/netcoreapp2.0/Command.AssemblyInfoInputs.cache
+/Users/artemkopytko/University/Command/Command/obj/Debug/netcoreapp2.0/Command.AssemblyInfo.cs
+/Users/artemkopytko/University/Command/Command/obj/Debug/netcoreapp2.0/Command.dll
+/Users/artemkopytko/University/Command/Command/obj/Debug/netcoreapp2.0/Command.pdb
